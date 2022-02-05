@@ -1,16 +1,15 @@
-### Hi there 👋
+Hello, this is ***Ahmet Berke Tuncel***
 
-<!--
-**ahmetberke/ahmetberke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Now, I'm null stack developer for nothing, living in **Aydın / İzmit**, studying CENG at Kocaeli University in İzmit. 
+I'm improving myself in the backend development.
+I love Go and want to be a gopher.
 
-Here are some ideas to get you started:
+- 👨‍💻 [What am I doing on **Github**](https://github.com/ahmetberke)
+- 🤔 [What are my thoughts on anything? Just look at my twitter](https://twitter.com/abtdev)
+- 👨‍💼 [Some bussiness stuff](https://www.linkedin.com/in/ahmetberke/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary>click for more</summary>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmetberke&show_icons=true&count_private=true&theme=dark" />
+</details>
